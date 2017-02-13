@@ -1,6 +1,6 @@
 {
   "name": "is-webpack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check your script is running while webpack build",
   "license": "MIT",
   "repository": "ragingwind/is-webpack",
